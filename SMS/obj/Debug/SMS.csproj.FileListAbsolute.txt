@@ -1,0 +1,410 @@
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\ApplicationInsights.config
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\csc.exe
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\vbc.exe
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\VBCSCompiler.exe
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\SMS.dll.config
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\SMS.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\SMS.pdb
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Antlr3.Runtime.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\EntityFramework.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\EntityFramework.SqlServer.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.Web.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.ApplicationInsights.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Newtonsoft.Json.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Owin.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Helpers.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Mvc.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Optimization.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Razor.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Deployment.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Razor.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\WebGrease.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.Web.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.ApplicationInsights.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Helpers.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Mvc.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Optimization.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.Razor.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Deployment.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Razor.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Antlr3.Runtime.pdb
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Newtonsoft.Json.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\EntityFramework.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\EntityFramework.SqlServer.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\obj\Debug\SMS.dll
+c:\users\sanjay\documents\visual studio 2015\Projects\SMS\SMS\obj\Debug\SMS.pdb
+C:\Users\Sanjay\Documents\Visual Studio 2015\Projects\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Videos\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Videos\SMS\SMS\obj\Debug\SMS.dll
+C:\Users\Sanjay\Videos\SMS\SMS\obj\Debug\SMS.pdb
+C:\Users\Sanjay\Videos\SMS\SMS\bin\ApplicationInsights.config
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\csc.exe
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\vbc.exe
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sanjay\Videos\SMS\SMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sanjay\Videos\SMS\SMS\bin\SMS.dll.config
+C:\Users\Sanjay\Videos\SMS\SMS\bin\SMS.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\SMS.pdb
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Antlr3.Runtime.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\EntityFramework.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.Web.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Newtonsoft.Json.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Owin.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Helpers.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Mvc.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Optimization.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Razor.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.WebPages.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\WebGrease.dll
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.Web.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Helpers.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Mvc.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Optimization.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.Razor.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.WebPages.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Newtonsoft.Json.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\EntityFramework.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sanjay\Videos\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\ApplicationInsights.config
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\csc.exe
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\vbc.exe
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\SMS.dll.config
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\SMS.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\SMS.pdb
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Antlr3.Runtime.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\EntityFramework.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\EntityFramework.SqlServer.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.Web.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Newtonsoft.Json.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Owin.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Helpers.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Mvc.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Optimization.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Razor.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\WebGrease.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.Web.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Helpers.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Mvc.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Optimization.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.Razor.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Antlr3.Runtime.pdb
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Newtonsoft.Json.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\EntityFramework.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\EntityFramework.SqlServer.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\obj\Debug\SMS.dll
+C:\Users\patwa\OneDrive\Documents\Visual Studio 2015\Projects\SMS\SMS\obj\Debug\SMS.pdb
+E:\DOT NET\SMS\SMS\SMS\bin\ApplicationInsights.config
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\csc.exe
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\System.Collections.Immutable.dll
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\vbc.exe
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\VBCSCompiler.exe
+E:\DOT NET\SMS\SMS\SMS\bin\roslyn\VBCSCompiler.exe.config
+E:\DOT NET\SMS\SMS\SMS\bin\SMS.dll.config
+E:\DOT NET\SMS\SMS\SMS\bin\SMS.dll
+E:\DOT NET\SMS\SMS\SMS\bin\SMS.pdb
+E:\DOT NET\SMS\SMS\SMS\bin\Antlr3.Runtime.dll
+E:\DOT NET\SMS\SMS\SMS\bin\EntityFramework.dll
+E:\DOT NET\SMS\SMS\SMS\bin\EntityFramework.SqlServer.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.DependencyCollector.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.Web.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.WindowsServer.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.ApplicationInsights.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Google.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Web.Infrastructure.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Newtonsoft.Json.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Owin.dll
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Helpers.dll
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Mvc.dll
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Optimization.dll
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Razor.dll
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.WebPages.Deployment.dll
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.WebPages.dll
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.WebPages.Razor.dll
+E:\DOT NET\SMS\SMS\SMS\bin\WebGrease.dll
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.DependencyCollector.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.Web.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AI.WindowsServer.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.ApplicationInsights.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Helpers.xml
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Mvc.xml
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Optimization.xml
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.Razor.xml
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.WebPages.xml
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.WebPages.Deployment.xml
+E:\DOT NET\SMS\SMS\SMS\bin\System.Web.WebPages.Razor.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Antlr3.Runtime.pdb
+E:\DOT NET\SMS\SMS\SMS\bin\Newtonsoft.Json.xml
+E:\DOT NET\SMS\SMS\SMS\bin\EntityFramework.xml
+E:\DOT NET\SMS\SMS\SMS\bin\EntityFramework.SqlServer.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Google.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DOT NET\SMS\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DOT NET\SMS\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+E:\DOT NET\SMS\SMS\SMS\obj\Debug\SMS.dll
+E:\DOT NET\SMS\SMS\SMS\obj\Debug\SMS.pdb
+E:\DOT NET\SMS_504\SMS\SMS\bin\ApplicationInsights.config
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\csc.exe
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\System.Collections.Immutable.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\vbc.exe
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\VBCSCompiler.exe
+E:\DOT NET\SMS_504\SMS\SMS\bin\roslyn\VBCSCompiler.exe.config
+E:\DOT NET\SMS_504\SMS\SMS\bin\SMS.dll.config
+E:\DOT NET\SMS_504\SMS\SMS\bin\SMS.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\SMS.pdb
+E:\DOT NET\SMS_504\SMS\SMS\bin\Antlr3.Runtime.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\EntityFramework.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\EntityFramework.SqlServer.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.DependencyCollector.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.Web.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.WindowsServer.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.ApplicationInsights.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Google.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Web.Infrastructure.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Newtonsoft.Json.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Owin.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Helpers.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Mvc.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Optimization.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Razor.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.WebPages.Deployment.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.WebPages.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.WebPages.Razor.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\WebGrease.dll
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.DependencyCollector.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.Web.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AI.WindowsServer.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.ApplicationInsights.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Helpers.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Mvc.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Optimization.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.Razor.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.WebPages.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.WebPages.Deployment.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\System.Web.WebPages.Razor.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Antlr3.Runtime.pdb
+E:\DOT NET\SMS_504\SMS\SMS\bin\Newtonsoft.Json.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\EntityFramework.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\EntityFramework.SqlServer.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Google.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DOT NET\SMS_504\SMS\SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DOT NET\SMS_504\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+E:\DOT NET\SMS_504\SMS\SMS\obj\Debug\SMS.dll
+E:\DOT NET\SMS_504\SMS\SMS\obj\Debug\SMS.pdb

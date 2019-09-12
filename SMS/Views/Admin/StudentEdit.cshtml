@@ -1,0 +1,98 @@
+﻿@model SMS.Models.Student
+
+@{
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+
+    System.Data.DataTable dt2 = ViewBag.abc;
+}
+
+
+<div class="row">
+    <!-- left column -->
+    <div class="col-md-6">
+        <!-- general form elements -->
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Edit Student</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form action="/Admin/SubmitStudentEdit" method="post">
+                <div class="box-body">
+                    <div class="form-group">
+                        <label>Name</label>
+                        <input type="text" class="form-control" name="Name" value="@Model.Name">
+                    </div>
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input type="text" class="form-control" name="Email" value="@Model.Email">
+                    </div>
+                    <div class="form-group">
+                        <label>Phone</label>
+                        <input type="text" class="form-control" name="Phone" value="@Model.Phone">
+                    </div>
+                    <div class="form-group">
+                        <label>Parent Phone</label>
+                        <input type="text" class="form-control" name="ParentPhone" value="@Model.ParentPhone">
+                    </div>
+                    <div class="form-group">
+                        <label>Semester</label>
+                        <select class="form-control" name="Semester">
+                            <option @((Model.Semester == "1") ? "selected=selected" : "") value="1">1</option>
+                            <option @((Model.Semester == "2") ? "selected=selected" : "") value="2">2</option>
+                            <option @((Model.Semester == "3") ? "selected=selected" : "") value="3">3</option>
+                            <option @((Model.Semester == "4") ? "selected=selected" : "") value="4">4</option>
+                            <option @((Model.Semester == "5") ? "selected=selected" : "") value="5">5</option>
+                            <option @((Model.Semester == "6") ? "selected=selected" : "") value="6">6</option>
+                            <option @((Model.Semester == "7") ? "selected=selected" : "") value="7">7</option>
+                            <option @((Model.Semester == "8") ? "selected=selected" : "") value="8">8</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Class</label>
+                        <input type="text" class="form-control" name="Class" value="@Model.Class">
+                    </div>
+                    <div class="form-group">
+                        <label>Username</label>
+                        <input type="text" class="form-control" name="Username" value="@Model.Username">
+                    </div>
+                    <div class="form-group">
+                        <label>Password</label>
+                        <input type="password" class="form-control" name="Password" value="@Model.Password">
+                    </div>
+                    <div class="form-group">
+                        <label>Department</label>
+                        <select class="form-control" name="DepartmentID">
+                            @for (int i = 0; i < dt2.Rows.Count; i++)
+                            {
+                                <option @((@dt2.Rows[i]["DepartmentID"].ToString() == @Model.DepartmentID.ToString()) ? "selected=selected" : "" ) value="@dt2.Rows[i]["DepartmentID"]">@dt2.Rows[i]["DName"]</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Is Active</label>
+                        <input type="checkbox" name="IsActive" value="1" @( Model.IsActive ? "checked='checked'" : "") />
+                    </div>
+                </div>
+                <!-- /.box-body -->
+                <div class="box-footer">
+
+                    <input type="hidden" name="ID" value="@Model.StudentID" />
+                    <button type="submit" class="btn btn-primary">Submit</button>
+
+                </div>
+            </form>
+        </div>
+        <!-- /.box -->
+    </div>
+    <!--/.col (left) -->
+</div>
+
+
+
+
+
+
+
+
+

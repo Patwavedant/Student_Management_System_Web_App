@@ -1,0 +1,41 @@
+﻿@model System.Data.DataTable
+
+@{
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row">
+    <!-- left column -->
+    <div class="col-md-12">
+        <!-- general form elements -->
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Department List</h3>
+            </div>
+            <div class="box-body">
+                <table border="1" class="table table-bordered">
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>HOD</th>
+                        <th>Actions</th>
+                    </tr>
+                    @for (int i = 0; i < Model.Rows.Count; i++)
+                    {
+                        <tr>
+                            <td>@Model.Rows[i]["DepartmentID"]</td>
+                            <td>@Model.Rows[i]["DName"]</td>
+                            <td>@Model.Rows[i]["SName"]</td>
+                            <td><a href="/Admin/DepartmentEdit?ID=@Model.Rows[i]["DepartmentID"]">Edit</a></td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+        </div>
+        <!-- /.box -->
+    </div>
+    <!--/.col (left) -->
+</div>
+
+

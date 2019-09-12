@@ -1,0 +1,64 @@
+﻿@model System.Data.DataTable
+
+@{
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row">
+    <!-- left column -->
+    <div class="col-md-6">
+        <!-- general form elements -->
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">New ExamSchedule</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form action="/HOD/SubmitExamScheduleNew" method="post" enctype="multipart/form-data">
+                <div class="box-body">
+                    <div class="form-group">
+                        <label>Semester</label>
+                        <select class="form-control" name="Semester">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>ScheduleFile</label>
+                        <input type="file" class="form-control" name="ScheduleFile">
+                    </div>
+                    <div class="form-group">
+                        <label>PublishDate</label>
+                        <input type="text" class="form-control" placeholder="DD-MM-YYYY" name="PublishDate">
+                    </div>
+                    <div class="form-group">
+                        <label>Department</label>
+                        <select class="form-control" name="DepartmentID">
+
+                            @for (int i = 0; i < Model.Rows.Count; i++)
+                            {
+                                <option value="@Model.Rows[i]["DepartmentID"]">@Model.Rows[i]["DName"]</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Is Active</label>
+                        <input type="checkbox" name="IsActive" value="1">
+                    </div>
+                </div>
+                <!-- /.box-body -->
+                <div class="box-footer">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+        </div>
+        <!-- /.box -->
+    </div>
+    <!--/.col (left) -->
+</div>
